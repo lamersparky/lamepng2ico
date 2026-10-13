@@ -1,0 +1,13 @@
+# Build output
+*.o
+/core
+
+# Generated icon files and local test inputs
+*.ico
+test-*.png
+filters.png
+smoke-preview.png
+*.bmp
+
+# Local packaging artifacts
+*.tar.gz
